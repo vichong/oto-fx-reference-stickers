@@ -13,98 +13,98 @@
   <line x1="125" y1="0" x2="125" y2="34" stroke="#000" stroke-width="0.3"/>
   
   <!-- Row lines - 10 rows -->
-  <line x1="0" y1="3.8" x2="140" y2="3.8" stroke="#000" stroke-width="0.3"/>
-  <line x1="0" y1="7.6" x2="140" y2="7.6" stroke="#000" stroke-width="0.3"/>
-  <line x1="0" y1="11.4" x2="140" y2="11.4" stroke="#000" stroke-width="0.3"/>
-  <line x1="0" y1="15.2" x2="140" y2="15.2" stroke="#000" stroke-width="0.3"/>
-  <line x1="0" y1="19" x2="140" y2="19" stroke="#000" stroke-width="0.3"/>
-  <line x1="0" y1="22.8" x2="140" y2="22.8" stroke="#000" stroke-width="0.3"/>
-  <line x1="0" y1="26.6" x2="140" y2="26.6" stroke="#000" stroke-width="0.3"/>
-  <line x1="0" y1="30.4" x2="140" y2="30.4" stroke="#000" stroke-width="0.3"/>
+  <line x1="0" y1="4" x2="140" y2="4" stroke="#000" stroke-width="0.3"/>
+  <line x1="0" y1="8" x2="140" y2="8" stroke="#000" stroke-width="0.3"/>
+  <line x1="0" y1="12" x2="140" y2="12" stroke="#000" stroke-width="0.3"/>
+  <line x1="0" y1="16" x2="140" y2="16" stroke="#000" stroke-width="0.3"/>
+  <line x1="0" y1="20" x2="140" y2="20" stroke="#000" stroke-width="0.3"/>
+  <line x1="0" y1="24" x2="140" y2="24" stroke="#000" stroke-width="0.3"/>
+  <line x1="0" y1="28" x2="140" y2="28" stroke="#000" stroke-width="0.3"/>
+  <line x1="0" y1="32" x2="140" y2="32" stroke="#000" stroke-width="0.3"/>
   <line x1="0" y1="34" x2="140" y2="34" stroke="#000" stroke-width="0.3"/>
   
   <!-- Column Headers -->
-  <text x="10" y="2.5" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle"></text>
-  <text x="27.5" y="2.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">1</text>
-  <text x="42.5" y="2.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">2</text>
-  <text x="57.5" y="2.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">3</text>
-  <text x="72.5" y="2.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">4</text>
-  <text x="87.5" y="2.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">5</text>
-  <text x="102.5" y="2.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">6</text>
-  <text x="117.5" y="2.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">7</text>
-  <text x="132.5" y="2.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">8</text>
+  <text x="10" y="2.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle"></text>
+  <text x="27.5" y="2.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">1</text>
+  <text x="42.5" y="2.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">2</text>
+  <text x="57.5" y="2.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">3</text>
+  <text x="72.5" y="2.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">4</text>
+  <text x="87.5" y="2.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">5</text>
+  <text x="102.5" y="2.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">6</text>
+  <text x="117.5" y="2.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">7</text>
+  <text x="132.5" y="2.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">8</text>
   
   <!-- Row 1: TYPE L1 -->
-  <text x="10" y="6" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">TYPE L1</text>
-  <text x="27.5" y="6" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Room</text>
-  <text x="42.5" y="6" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Hall</text>
-  <text x="57.5" y="6" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Plate</text>
-  <text x="72.5" y="6" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Ambient</text>
-  <text x="87.5" y="6" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Chorus</text>
-  <text x="102.5" y="6" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">NonLin</text>
-  <text x="117.5" y="6" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Primitive</text>
-  <text x="132.5" y="6" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Thru</text>
+  <text x="10" y="6.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">TYPE L1</text>
+  <text x="27.5" y="6.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">Room</text>
+  <text x="42.5" y="6.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">Hall</text>
+  <text x="57.5" y="6.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">Plate</text>
+  <text x="72.5" y="6.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">Ambient</text>
+  <text x="87.5" y="6.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">Chorus</text>
+  <text x="102.5" y="6.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">NonLin</text>
+  <text x="117.5" y="6.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">Primitive</text>
+  <text x="132.5" y="6.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">Thru</text>
   
   <!-- Row 2: TYPE L2 -->
-  <text x="10" y="9.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">TYPE L2</text>
-  <text x="27.5" y="9.5" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Bloop</text>
-  <text x="42.5" y="9.5" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Boing</text>
+  <text x="10" y="10.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">TYPE L2</text>
+  <text x="27.5" y="10.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">Bloop</text>
+  <text x="42.5" y="10.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">Boing</text>
   
   <!-- Row 3: IN GAIN L1 -->
-  <text x="10" y="13" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">IN GAIN L1</text>
-  <text x="27.5" y="13" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">0dB</text>
-  <text x="42.5" y="13" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+1dB</text>
-  <text x="57.5" y="13" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+2dB</text>
-  <text x="72.5" y="13" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+3dB</text>
-  <text x="87.5" y="13" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+4dB</text>
-  <text x="102.5" y="13" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+5dB</text>
-  <text x="117.5" y="13" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+6dB</text>
-  <text x="132.5" y="13" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+7dB</text>
+  <text x="10" y="14.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">IN GAIN L1</text>
+  <text x="27.5" y="14.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">0dB</text>
+  <text x="42.5" y="14.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+1dB</text>
+  <text x="57.5" y="14.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+2dB</text>
+  <text x="72.5" y="14.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+3dB</text>
+  <text x="87.5" y="14.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+4dB</text>
+  <text x="102.5" y="14.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+5dB</text>
+  <text x="117.5" y="14.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+6dB</text>
+  <text x="132.5" y="14.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+7dB</text>
   
   <!-- Row 4: IN GAIN L2 -->
-  <text x="10" y="17" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">IN GAIN L2</text>
-  <text x="27.5" y="17" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+8dB</text>
-  <text x="42.5" y="17" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+9dB</text>
-  <text x="57.5" y="17" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+10dB</text>
-  <text x="72.5" y="17" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+11dB</text>
-  <text x="87.5" y="17" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+12dB</text>
-  <text x="102.5" y="17" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+13dB</text>
-  <text x="117.5" y="17" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+14dB</text>
-  <text x="132.5" y="17" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">+15dB</text>
+  <text x="10" y="18.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">IN GAIN L2</text>
+  <text x="27.5" y="18.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+8dB</text>
+  <text x="42.5" y="18.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+9dB</text>
+  <text x="57.5" y="18.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+10dB</text>
+  <text x="72.5" y="18.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+11dB</text>
+  <text x="87.5" y="18.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+12dB</text>
+  <text x="102.5" y="18.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+13dB</text>
+  <text x="117.5" y="18.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+14dB</text>
+  <text x="132.5" y="18.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">+15dB</text>
   
   <!-- Row 5: FLT LF -->
-  <text x="10" y="21" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">FLT LF</text>
-  <text x="27.5" y="21" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">20Hz</text>
-  <text x="42.5" y="21" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">80Hz</text>
-  <text x="57.5" y="21" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">150Hz</text>
-  <text x="72.5" y="21" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">250Hz</text>
-  <text x="87.5" y="21" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">450Hz</text>
+  <text x="10" y="22.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">FLT LF</text>
+  <text x="27.5" y="22.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">20Hz</text>
+  <text x="42.5" y="22.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">80Hz</text>
+  <text x="57.5" y="22.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">150Hz</text>
+  <text x="72.5" y="22.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">250Hz</text>
+  <text x="87.5" y="22.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">450Hz</text>
   
-  <!-- Row 6: FLT HF -->
-  <text x="10" y="24.5" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">FLT HF</text>
-  <text x="27.5" y="24.5" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">1.8kHz</text>
-  <text x="42.5" y="24.5" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">4.5kHz</text>
-  <text x="57.5" y="24.5" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">7kHz</text>
-  <text x="72.5" y="24.5" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">9kHz</text>
-  <text x="87.5" y="24.5" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">15kHz</text>
+  <!-- Row 6: FLT HF shifted to columns 4-8 as requested -->
+  <text x="10" y="26.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">FLT HF</text>
+  <text x="72.5" y="26.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">1.8kHz</text>
+  <text x="87.5" y="26.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">4.5kHz</text>
+  <text x="102.5" y="26.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">7kHz</text>
+  <text x="117.5" y="26.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">9kHz</text>
+  <text x="132.5" y="26.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">15kHz</text>
   
-  <!-- Row 7: CHORUS -->
-  <text x="10" y="28" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">CHORUS</text>
-  <text x="27.5" y="28" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Off</text>
-  <text x="42.5" y="28" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">New</text>
-  <text x="57.5" y="28" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Light</text>
-  <text x="72.5" y="28" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">New</text>
-  <text x="87.5" y="28" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">New</text>
-  <text x="102.5" y="28" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">New</text>
-  <text x="117.5" y="28" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Mid</text>
-  <text x="132.5" y="28" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">Strong</text>
+  <!-- Row 7: CHORUS with updated values -->
+  <text x="10" y="30.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">CHORUS</text>
+  <text x="27.5" y="30.7" font-family="Helvetica, sans-serif" font-size="2.3" text-anchor="middle">1: Off</text>
+  <text x="42.5" y="30.7" font-family="Helvetica, sans-serif" font-size="2.3" text-anchor="middle">2: I</text>
+  <text x="57.5" y="30.7" font-family="Helvetica, sans-serif" font-size="2.3" text-anchor="middle">3: II (Light)</text>
+  <text x="72.5" y="30.7" font-family="Helvetica, sans-serif" font-size="2.3" text-anchor="middle">4: III</text>
+  <text x="87.5" y="30.7" font-family="Helvetica, sans-serif" font-size="2.3" text-anchor="middle">5: IV</text>
+  <text x="102.5" y="30.7" font-family="Helvetica, sans-serif" font-size="2.3" text-anchor="middle">6: V</text>
+  <text x="117.5" y="30.7" font-family="Helvetica, sans-serif" font-size="2.3" text-anchor="middle">7: VI (Mid)</text>
+  <text x="132.5" y="30.7" font-family="Helvetica, sans-serif" font-size="2.3" text-anchor="middle">8: VII (Strong)</text>
   
   <!-- Row 8: CHORUS PRE-D -->
-  <text x="10" y="32" font-family="Helvetica, sans-serif" font-size="2.2" font-weight="bold" text-anchor="middle">CHORUS PRE-D</text>
-  <text x="27.5" y="32" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">100ms</text>
-  <text x="42.5" y="32" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">200ms</text>
-  <text x="57.5" y="32" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">400ms</text>
+  <text x="10" y="33.7" font-family="Helvetica, sans-serif" font-size="2.4" font-weight="bold" text-anchor="middle">CHORUS PRE-D</text>
+  <text x="27.5" y="33.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">100ms</text>
+  <text x="42.5" y="33.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">200ms</text>
+  <text x="57.5" y="33.7" font-family="Helvetica, sans-serif" font-size="2.4" text-anchor="middle">400ms</text>
   
   <!-- Bottom row with requested text -->
-  <text x="70" y="36.5" font-family="Helvetica, sans-serif" font-size="2.2" text-anchor="middle">• ACTIVE modes (Relay, Spillover, Aux) • TAP options (Pre-Delay, Reverb) • FREEZE (Latch, Mom)</text>
+  <text x="70" y="36.7" font-family="Helvetica, sans-serif" font-size="2.1" text-anchor="middle">• ACTIVE modes (Relay, Spillover, Aux) • TAP options (Pre-Delay, Reverb) • FREEZE (Latch, Mom)</text>
 </svg>
