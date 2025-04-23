@@ -44,7 +44,7 @@ This is the intended final look for the stickers:
 | :----------: | :--------------: | :---------: |
 | ![BAM Sticker Preview](bam.png) | ![BOUM Sticker Preview](boum.png) | ![BIM Sticker Preview](bim.png) |
 
-## � Files
+## 📁 Files
 
 The main project directory contains the following files:
 
