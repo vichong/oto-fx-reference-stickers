@@ -15,6 +15,7 @@ A collection of printable reference stickers for OTO Machines effects processors
 - 🎹 Organized for quick reference during performance or studio use
 - 📐 Designed for side panel mounting
 - 💡 **Tip:** Print onto sticker paper, apply to a magnet sheet, and custom cut for easy, non-permanent attachment to the case.
+- ✂️ SVG files suitable for creating vinyl cut decals.
 
 ## 📊 Parameter Table
 
