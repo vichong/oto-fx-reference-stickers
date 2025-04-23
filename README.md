@@ -15,6 +15,12 @@ A collection of printable reference stickers for OTO Machines effects processors
 - 🎹 Organized for quick reference during performance or studio use
 - 📐 Designed for side panel mounting
 
+## 📊 Parameter Table
+
+The following table shows the parameters included on the stickers (source data available in `OTO MACHINES.xlsx`). **Note:** This table assumes the latest firmware is installed on all units.
+
+![OTO Machines Parameter Table](OTO%20MACHINES%20TABLE.gif)
+
 ## 🎨 Design Details
 
 ### Color Scheme
@@ -38,7 +44,7 @@ This is the intended final look for the stickers:
 | :----------: | :--------------: | :---------: |
 | ![BAM Sticker Preview](bam.png) | ![BOUM Sticker Preview](boum.png) | ![BIM Sticker Preview](bim.png) |
 
-## 📁 Files
+## � Files
 
 The main project directory contains the following files:
 
