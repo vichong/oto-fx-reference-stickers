@@ -14,6 +14,7 @@ A collection of printable reference stickers for OTO Machines effects processors
 - 🏷️ All available settings clearly labeled
 - 🎹 Organized for quick reference during performance or studio use
 - 📐 Designed for side panel mounting
+- 💡 **Tip:** Print onto sticker paper, apply to a magnet sheet, and custom cut for easy, non-permanent attachment to the case.
 
 ## 📊 Parameter Table
 
@@ -65,4 +66,4 @@ Inspiration for this project comes from a post by Craig Johnson on the Aussie Wi
 
 ## 💬 Feedback
 
-This is a work in progress. If you have suggestions for improvements or spot any errors, please open an issue on this repository or reach out on the Elektronauts forum.
+This is a work in progress. If you have suggestions for improvements or spot any errors, please open an issue on this repository or reach out on the [Elektronauts forum](https://www.elektronauts.com/t/oto-machines-fx-bim-bam-boum/837/1066).
