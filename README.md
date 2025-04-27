@@ -52,7 +52,7 @@ The following table shows the parameters included on the stickers (source data a
 
 ### Font
 
-- **Font:** Jost or Futura Pro Medium (or closest available match)
+- **Font:** Jost (or closest available match)
 
 ## 📁 Files
 
