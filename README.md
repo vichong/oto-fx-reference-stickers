@@ -31,7 +31,7 @@ Here are the final sticker designs:
 
 | BAM (Reverb) | BIM (Delay) | BOUM (Comp/Dist) |
 | :----------: | :---------: | :--------------: |
-| ![BAM Sticker](BAM.jpg) | ![BIM Sticker](BIM.jpg) | ![BOUM Sticker](BOUM.jpg) |
+| ![BAM Sticker](BAM_v1.0.jpg) | ![BIM Sticker](BIM_v1.0.jpg) | ![BOUM Sticker](BOUM_v1.0.jpg) |
 
 ## 📊 Parameter Table
 
@@ -58,15 +58,15 @@ The following table shows the parameters included on the stickers (source data a
 
 The main project directory contains the following files:
 
-- `BAM.ai`, `BAM.jpg`, `BAM.pdf`, `BAM.svg`: Sticker files for BAM.
+- `BAM_v1.0.ai`, `BAM_v1.0.jpg`, `BAM_v1.0.pdf`, `BAM_v1.0.svg`: Sticker files for BAM (Version 1.0).
 - `bam.png`: Preview image for BAM sticker (shown on unit).
-- `BIM.ai`, `BIM.jpg`, `BIM.pdf`, `BIM.svg`: Sticker files for BIM.
+- `BIM_v1.0.ai`, `BIM_v1.0.jpg`, `BIM_v1.0.pdf`, `BIM_v1.0.svg`: Sticker files for BIM (Version 1.0).
 - `bim.png`: Preview image for BIM sticker (shown on unit).
-- `BOUM.ai`, `BOUM.jpg`, `BOUM.pdf`, `BOUM.svg`: Sticker files for BOUM.
+- `BOUM_v1.0.ai`, `BOUM_v1.0.jpg`, `BOUM_v1.0.pdf`, `BOUM_v1.0.svg`: Sticker files for BOUM (Version 1.0).
 - `boum.png`: Preview image for BOUM sticker (shown on unit).
 - `LICENSE`: Project license information.
 - `OTO MACHINES TABLE.gif`: GIF image showing the parameter table (source material).
-- `OTO MACHINES.xlsx`: Excel spreadsheet containing the parameter data (source material).
+- `OTO MACHINES_v1.0.xlsx`: Excel spreadsheet containing the parameter data (source material, Version 1.0).
 - `README.md`: This file.
 
 ## ⚖️ License
