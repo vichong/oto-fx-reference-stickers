@@ -13,7 +13,7 @@ A collection of printable reference stickers for OTO Machines effects processors
 - 📋 Complete parameter references for latest firmware
 - 🏷️ All available settings clearly labeled
 - 🎹 Organized for quick reference during performance or studio use
-- 📐 Designed for side panel mounting
+- 📐 Designed for side panel mounting (140mm x 40mm)
 - 💡 **Tip:** Print onto sticker paper, apply to a magnet sheet, and custom cut for easy, non-permanent attachment to the case.
 - ✂️ SVG files suitable for creating vinyl cut decals.
 
