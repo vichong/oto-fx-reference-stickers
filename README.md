@@ -4,9 +4,9 @@ A collection of printable reference stickers for OTO Machines effects processors
 
 ## ✨ Currently Available
 
-- **BAM** 🔊 (Reverb) - *First revision (140mm x 38mm, v1.6 parameters). Subject to change.*
-- **BOUM** 💥 (Compressor/Distortion) - Coming soon
-- **BIM** ⏳ (Delay) - Coming soon
+- **BAM** 🔊 (Reverb) - Sticker files available in AI, JPG, PDF, SVG formats. Preview image (PNG) also available.
+- **BIM** ⏳ (Delay) - Sticker files available in AI, JPG, PDF, SVG formats. Preview image (PNG) also available.
+- **BOUM** 💥 (Compressor/Distortion) - Sticker files available in AI, JPG, PDF, SVG formats. Preview image (PNG) also available.
 
 ## 🌟 Features
 
@@ -16,6 +16,22 @@ A collection of printable reference stickers for OTO Machines effects processors
 - 📐 Designed for side panel mounting
 - 💡 **Tip:** Print onto sticker paper, apply to a magnet sheet, and custom cut for easy, non-permanent attachment to the case.
 - ✂️ SVG files suitable for creating vinyl cut decals.
+
+## 🎯 Target Design Previews
+
+This is the intended final look for the stickers:
+
+| BAM (Reverb) | BIM (Delay) | BOUM (Comp/Dist) |
+| :----------: | :--------------: | :---------: |
+| ![BAM Sticker Preview](bam.png) | ![BIM Sticker Preview](bim.png) | ![BOUM Sticker Preview](boum.png) |
+
+## 🖼️ Final Sticker Images
+
+Here are the final sticker designs:
+
+| BAM (Reverb) | BIM (Delay) | BOUM (Comp/Dist) |
+| :----------: | :---------: | :--------------: |
+| ![BAM Sticker](BAM.jpg) | ![BIM Sticker](BIM.jpg) | ![BOUM Sticker](BOUM.jpg) |
 
 ## 📊 Parameter Table
 
@@ -38,23 +54,19 @@ The following table shows the parameters included on the stickers (source data a
 
 - **Font:** Futura Pro Medium (or closest available match)
 
-## 🎯 Target Design Previews
-
-This is the intended final look for the stickers:
-
-| BAM (Reverb) | BOUM (Comp/Dist) | BIM (Delay) |
-| :----------: | :--------------: | :---------: |
-| ![BAM Sticker Preview](bam.png) | ![BOUM Sticker Preview](boum.png) | ![BIM Sticker Preview](bim.png) |
-
 ## 📁 Files
 
 The main project directory contains the following files:
 
+- `BAM.ai`, `BAM.jpg`, `BAM.pdf`, `BAM.svg`: Sticker files for BAM.
+- `bam.png`: Preview image for BAM sticker (shown on unit).
+- `BIM.ai`, `BIM.jpg`, `BIM.pdf`, `BIM.svg`: Sticker files for BIM.
+- `bim.png`: Preview image for BIM sticker (shown on unit).
+- `BOUM.ai`, `BOUM.jpg`, `BOUM.pdf`, `BOUM.svg`: Sticker files for BOUM.
+- `boum.png`: Preview image for BOUM sticker (shown on unit).
 - `LICENSE`: Project license information.
 - `OTO MACHINES TABLE.gif`: GIF image showing the parameter table (source material).
 - `OTO MACHINES.xlsx`: Excel spreadsheet containing the parameter data (source material).
-- `oto-bam.png`: PNG preview image for the BAM sticker.
-- `oto-bam.svg`: SVG vector file for the BAM sticker (ready for printing/modification).
 - `README.md`: This file.
 
 ## ⚖️ License
