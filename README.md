@@ -33,6 +33,14 @@ Here are the final sticker designs:
 | :----------: | :---------: | :--------------: |
 | ![BAM Sticker](BAM_v1.0.jpg) | ![BIM Sticker](BIM_v1.0.jpg) | ![BOUM Sticker](BOUM_v1.0.jpg) |
 
+### 🔄 Swapped Versions (Better Print Contrast)
+
+These inverted color versions provide better contrast when printed:
+
+| BAM (Reverb) | BIM (Delay) | BOUM (Comp/Dist) |
+| :----------: | :---------: | :--------------: |
+| ![BAM Sticker Swapped](BAM_v1.0_swapped.jpg) | ![BIM Sticker Swapped](BIM_v1.0_swapped.jpg) | ![BOUM Sticker Swapped](BOUM_v1.0_swapped.jpg) |
+
 ## 📊 Parameter Table
 
 The following table shows the parameters included on the stickers (source data available in `OTO MACHINES.xlsx`). **Note:** This table assumes the latest firmware is installed on all units.
@@ -59,13 +67,13 @@ The following table shows the parameters included on the stickers (source data a
 The main project directory contains the following files:
 
 - `BAM_v1.0.ai`, `BAM_v1.0.jpg`, `BAM_v1.0.pdf`, `BAM_v1.0.svg`: Sticker files for BAM (Version 1.0).
-- `BAM_v1.0_swapped.svg`: BAM sticker with inverted colors for better print contrast.
+- `BAM_v1.0_swapped.svg`, `BAM_v1.0_swapped.jpg`: BAM sticker with inverted colors for better print contrast.
 - `bam.png`: Preview image for BAM sticker (shown on unit).
 - `BIM_v1.0.ai`, `BIM_v1.0.jpg`, `BIM_v1.0.pdf`, `BIM_v1.0.svg`: Sticker files for BIM (Version 1.0).
-- `BIM_v1.0_swapped.svg`: BIM sticker with inverted colors for better print contrast.
+- `BIM_v1.0_swapped.svg`, `BIM_v1.0_swapped.jpg`: BIM sticker with inverted colors for better print contrast.
 - `bim.png`: Preview image for BIM sticker (shown on unit).
 - `BOUM_v1.0.ai`, `BOUM_v1.0.jpg`, `BOUM_v1.0.pdf`, `BOUM_v1.0.svg`: Sticker files for BOUM (Version 1.0).
-- `BOUM_v1.0_swapped.svg`: BOUM sticker with inverted colors for better print contrast.
+- `BOUM_v1.0_swapped.svg`, `BOUM_v1.0_swapped.jpg`: BOUM sticker with inverted colors for better print contrast.
 - `boum.png`: Preview image for BOUM sticker (shown on unit).
 - `LICENSE`: Project license information.
 - `OTO MACHINES TABLE.gif`: GIF image showing the parameter table (source material).
