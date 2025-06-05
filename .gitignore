@@ -1,0 +1,19 @@
+# Claude Code configuration
+.claude/
+
+# Node modules
+node_modules/
+
+# Package lock files
+package-lock.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.Zone.Identifier
+
+# Temporary files
+*.tmp
+*.temp
