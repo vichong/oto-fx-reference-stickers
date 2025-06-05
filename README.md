@@ -59,10 +59,13 @@ The following table shows the parameters included on the stickers (source data a
 The main project directory contains the following files:
 
 - `BAM_v1.0.ai`, `BAM_v1.0.jpg`, `BAM_v1.0.pdf`, `BAM_v1.0.svg`: Sticker files for BAM (Version 1.0).
+- `BAM_v1.0_swapped.svg`: BAM sticker with inverted colors for better print contrast.
 - `bam.png`: Preview image for BAM sticker (shown on unit).
 - `BIM_v1.0.ai`, `BIM_v1.0.jpg`, `BIM_v1.0.pdf`, `BIM_v1.0.svg`: Sticker files for BIM (Version 1.0).
+- `BIM_v1.0_swapped.svg`: BIM sticker with inverted colors for better print contrast.
 - `bim.png`: Preview image for BIM sticker (shown on unit).
 - `BOUM_v1.0.ai`, `BOUM_v1.0.jpg`, `BOUM_v1.0.pdf`, `BOUM_v1.0.svg`: Sticker files for BOUM (Version 1.0).
+- `BOUM_v1.0_swapped.svg`: BOUM sticker with inverted colors for better print contrast.
 - `boum.png`: Preview image for BOUM sticker (shown on unit).
 - `LICENSE`: Project license information.
 - `OTO MACHINES TABLE.gif`: GIF image showing the parameter table (source material).
